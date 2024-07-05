@@ -32,12 +32,12 @@ body.style.backgroundColor = "gray";
 // today = yyyy + "/" + mm + "/" + dd
 // console.log(today)
 
-let array = [];
-console.log(array)
-array.push("mango");
-console.log(array)
-array.unshift("banana");
-console.log(array);
-let arr = ["kiwi","apple","orange"];
-array.concat(arr)
-console.log(array)
+// let array = [];
+// console.log(array)
+// array.push("mango");
+// console.log(array)
+// array.unshift("banana");
+// console.log(array);
+// let arr = ["kiwi","apple","orange"];
+// array.concat(arr)
+// console.log(array)
