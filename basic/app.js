@@ -1,5 +1,5 @@
-let body = document.querySelector("body");
-body.style.backgroundColor = "gray";
+// let body = document.querySelector("body");
+// body.style.backgroundColor = "gray";
 
 // Question One
 
