@@ -10,5 +10,8 @@
 //         console.log("both are equal")
 //     }
 // }
-
 // let result = largestInteger(15, 15);
+
+
+// Qno :- 02) Write a JavaScript conditional statement to find the sign of the product of three numbers. Display an alert box with the specified sign.
+// Sample numbers : 3, -7, 2
