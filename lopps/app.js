@@ -42,30 +42,8 @@ function sampleNumbers(){
     let num2 = prompt("Enter number two");
     let num3 = prompt("Enter number three");
     
-    if(num1 > num2 && num1 > num3){
-        alert(`${num1} is the largest number`);
-    }
-    else if(num2 > num1 && num2 > num3){
-        alert(`${num2} is the largest number`);
-    }
-    else{
-        alert(`${num3} is the largest number`);
-    }
-    if(num1 < num2 && num1 < num3){
-        alert(`${num1} is the smallest number`);
-    }
-    else if(num2 < num1 && num2 < num3){
-        alert(`${num2} is the smallest number`);
-    }
-    else{
-        alert(`${num3} is the smallest number`);
-    }
-    let avg = (num1 + num2 + num3) / 3;
-
-    alert(`The average of these three numbers is ${avg}`);
-    let diff = Math.abs(num1 - num2);
-    alert(`The difference between the largest and smallest number is ${diff}`);
-    let sum = num1 + num2 + num3;
-    alert(`The sum of these three numbers is ${sum}`);
     
+
+
 }
+sampleNumbers();
