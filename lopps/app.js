@@ -91,19 +91,19 @@
 // "0 is even"
 // "1 is odd"
 // "2 is even"
-function sample(){
+// function sample(){
 
-    let number = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-    for(let i = 0; i <= 15; i++){
-        if(number[i] % 2 == 0){
-            console.log(`${number[i]} is even`)
-        }else{
-            console.log(`${number[i]} is odd`)
-        }
-    }
+//     let number = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+//     for(let i = 0; i <= 15; i++){
+//         if(number[i] % 2 == 0){
+//             console.log(`${number[i]} is even`)
+//         }else{
+//             console.log(`${number[i]} is odd`)
+//         }
+//     }
 
-}
-sample()
+// }
+// sample()
 
 
 // Qno:- 06) Write a JavaScript program that computes the average marks of the 
