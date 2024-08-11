@@ -15,3 +15,19 @@
 
 // Qno :- 02) Write a JavaScript conditional statement to find the sign of the product of three numbers. Display an alert box with the specified sign.
 // Sample numbers : 3, -7, 2
+function sample(){
+    let num1 = prompt("enter number");
+    let num2 = prompt("enter number");
+    let num3 = prompt("enter number");
+
+    let product = num1 * num2 * num3;
+    
+    if(product > 0){
+        alert("The sign of the product is positive");
+    } else if(product < 0){
+        alert("The sign of the product is negative");
+    } else{
+        alert("The sign of the product is zero");
+    }
+}
+sample()
