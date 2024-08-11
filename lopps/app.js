@@ -32,3 +32,8 @@
 //     }
 // }
 // sample();
+
+
+// Qno:- 03) Write a JavaScript conditional statement to sort three numbers. Display an alert box to show the results.
+// Sample numbers : 0, -1, 4
+
