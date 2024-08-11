@@ -59,31 +59,31 @@
 // Qno:- 04) Write a JavaScript conditional statement to find the largest of five numbers. 
 // Display an alert box to show the results.
 // Sample numbers : -5, -2, -6, 0, -1
-function sample(){
-    let num1 = prompt("Enter number one");
-    let num2 = prompt("Enter number two");
-    let num3 = prompt("Enter number three");
-    let num4 = prompt("Enter number four");
-    let num5 = prompt("Enter number five");
+// function sample(){
+//     let num1 = prompt("Enter number one");
+//     let num2 = prompt("Enter number two");
+//     let num3 = prompt("Enter number three");
+//     let num4 = prompt("Enter number four");
+//     let num5 = prompt("Enter number five");
 
-    if(num1 > num2 && num1 > num3 && num1 > num4 && num1 > num5){
-        console.log(`${num1} is the largest`)
-    }
-    else if(num2 > num1 && num2 > num3 && num2 > num4 && num2 > num5){
-        console.log(`${num2} is the largest`)
-    }
-    else if(num3 > num1 && num3 > num2 && num3 > num4 && num3 > num5){
-        console.log(`${num3} is the largest`)
-    }
-    else if(num4 > num1 && num4 > num2 && num4 > num3 && num4 > num5){
-        console.log(`${num4} is the largest`)
-    }
-    else{
-        console.log(`${num5} is the largest`)
-    }
+//     if(num1 > num2 && num1 > num3 && num1 > num4 && num1 > num5){
+//         console.log(`${num1} is the largest`)
+//     }
+//     else if(num2 > num1 && num2 > num3 && num2 > num4 && num2 > num5){
+//         console.log(`${num2} is the largest`)
+//     }
+//     else if(num3 > num1 && num3 > num2 && num3 > num4 && num3 > num5){
+//         console.log(`${num3} is the largest`)
+//     }
+//     else if(num4 > num1 && num4 > num2 && num4 > num3 && num4 > num5){
+//         console.log(`${num4} is the largest`)
+//     }
+//     else{
+//         console.log(`${num5} is the largest`)
+//     }
  
-}
-sample()
+// }
+// sample()
 
 // Qno:- 05) Write a JavaScript for loop that iterates from 0 to 15. For each iteration,
 //  it checks if the current number is odd or even, and displays a message on the screen.
