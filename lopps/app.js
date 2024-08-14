@@ -138,6 +138,17 @@
 //   cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers,
 //    while those that do not end in 1 are unhappy numbers (or sad numbers)".
 // Write a JavaScript program to find and print the first 5 happy numbers.
+// function happy(){
+//     for(let i =0; i<=5; i++){
+//         if(i==1){
+//             console.log("happy number")
+//         }else{
+//             console.log("sad number")
+//         }
+//         console.log(i)
+//     }
+// }
+// happy();
 
 
 // Qno:- 09)  Write a JavaScript program to find the Armstrong numbers of 3 digits.
